@@ -13,10 +13,11 @@ So visit the page and  download Obsidian.
 4. After pressing the button, a console application will appear. Write " git clone " + paste the copied link  and press enter.
 
 ![ConsoleApplication.png](ConsoleApplication.png)
+
 5.  Now you should have the repository in your directory.
 
-![[Successful.png]]
+![Successful.png](Successful.png)
 
-![[Directory.png]]
+![Directory.png](Directory.png)
 
 If you have any problem please contact me !
