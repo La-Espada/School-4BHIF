@@ -67,12 +67,16 @@ Die Analyse wird in vier Phasen unterteilt:
     - interne Analyse: genaue Werte aus dem Buchhaltungskonten bzw. Kostenrechnung
 - Passiva der Bilanz: Erstellen der Struktur- und Prozentbilanz, Recherche kennzahlenrelevanter Daten
  In der Strukturbilanz der Passivseite wird zwischen kurz- und langfristigen Verbindlichkeiten bzw. Fremdkapital differenziert.
-     - **kurzfristige Verbindlichkeiten:**
+   - **langfristige Rückstellungen**
+       - Pension
+       - Abfertigung 
+   - **kurzfristige Verbindlichkeiten:**
        - Verbindlichkeiten aus Lieferungen und Leistungen
        - sonstige Verbindlichkeiten
      - **kurzfrisitige Rückstellungen:**
        - Steuerrückstellungen
        - sonstige Rückstellungen
+       - Urlaube, Jubiläumsgelder
      - **Passive Rechnungsabgrenzungen:**
           - externe Analyse: Restlaufzeit < als ein Jahr -> direkt in die Bilanz
    ältere werden in einer Tabelle aufgelistet. Rückstellungen sind im Geschäftsbericht enthalten.
@@ -90,3 +94,13 @@ Punkt 9. zeigt Betriebsergebnis
 Punkt 16. zeigt das Finanzergebnis
 Betriebsergebnis + Finanzergebnis = Ergebnis vor Steuer
 ![GuV-Rechnung-Rechenweg.png](GuV-Rechnung-Rechenweg.png) 
+
+Bestandteile des Eigenkapitals:
+Grundkapital
+Kapitalrücklagen
+10 % Gewinnrücklage
+
+Bestandteile des Fremdkapitals:
+Verbindlichkeiten
+
+operative: das was ein Unternehmen verkaufen muss
