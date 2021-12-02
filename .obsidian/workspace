@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readme.md",
+            "file": "Mathematik/Integral/Integral.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Mathematik/Integral/Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "8b6c668bdfbb15ad",
   "lastOpenFiles": [
+    "Mathematik/Integral/Integral.md",
+    "Mathematik/Integral/IntegralBeispiel5.png",
+    "Mathematik/Integral/IntegralBeispiel4.png",
+    "Mathematik/Geometrie der Ebene/Geometrie-der-Ebene.md",
+    "Mathematik/Geometrie der Ebene/Dreiecksarten.png",
     "Readme.md",
     "Directory.png",
     "Successful.png",
     "Pasted image 20211202202057.png",
-    "ConsoleApplication.png.png",
-    "ConsoleApplication.png 1.png",
-    "ConsoleApplication.png.md",
-    "GitBashHere.png",
-    "Pasted image 20211202201814.png"
+    "ConsoleApplication.png.png"
   ]
 }
