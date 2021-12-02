@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "698d699070f03748",
+        "id": "8b6c668bdfbb15ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Readme.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -86,8 +86,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "698d699070f03748",
+  "active": "8b6c668bdfbb15ad",
   "lastOpenFiles": [
-    "Readme.md"
+    "Readme.md",
+    "Directory.png",
+    "Successful.png",
+    "Pasted image 20211202202057.png",
+    "ConsoleApplication.png.png",
+    "ConsoleApplication.png 1.png",
+    "ConsoleApplication.png.md",
+    "GitBashHere.png",
+    "Pasted image 20211202201814.png"
   ]
 }
