@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematik/Integral/Integral.md",
-            "mode": "preview"
+            "file": "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Integral/Integral.md",
+                "file": "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8b6c668bdfbb15ad",
   "lastOpenFiles": [
+    "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
+    "BWM1/Stoff-der-zweiten-Klasse/Zugang-zum-Anlagevermögen/Zugang-zum-Anlagevermögen.md",
+    "Readme.md",
+    "Mathematik/Geometrie der Ebene/Geometrie-der-Ebene.md",
     "Mathematik/Integral/Integral.md",
     "Mathematik/Integral/IntegralBeispiel5.png",
     "Mathematik/Integral/IntegralBeispiel4.png",
-    "Mathematik/Geometrie der Ebene/Geometrie-der-Ebene.md",
     "Mathematik/Geometrie der Ebene/Dreiecksarten.png",
-    "Readme.md",
     "Directory.png",
-    "Successful.png",
-    "Pasted image 20211202202057.png",
-    "ConsoleApplication.png.png"
+    "Successful.png"
   ]
 }
