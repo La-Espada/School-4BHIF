@@ -77,3 +77,26 @@ Die Grundprinzipien werden hauptsächlich in sechs Prinzipien unterteilt:
   Das rechtsstaatliche Prinzip handelt von dem Legalitätsprinzip.
   
   Legalitätsprinzip ist ein zentraller Grundsatz in einem Rechtsstaat.
+  
+  In einem Rechtsstaat ist das Legalitätsprinzip ein **zentraler Grundsatz**. Durch dieses Prinzip wird die Verwaltung und die Gerichte mit dem Gesetz.
+  Beide dürfen nur dann handeln, wenn sie ein Gesetz dazu ermächtigt und so weit handeln, wie das Gesetz es ihnen vorgibt.
+  
+  Das Legalitätsprinzip gibt auch an, dass der Gesetzgeber das Gesetz verständlich formulieren muss, damit das Gesetz vorhersehrbar ist.
+  
+  ##### Liberales Prinzip
+  Ist für die **Freiheit der Menschen** im Staat zuständig. Dies ist vor allem in den **Grund- und Freiheitsrechten** deutlich.
+  Beispiele:
+  - das Recht auf Leben,
+  - der Gleichheitsgrundsatz,
+  - das Recht auf freie Meinungsäußerung,
+  - das Recht auf Religionsfreiheit
+  
+  ##### Gewaltentrennendes Prinzip
+  Trennt die Macht im Staat in mehreren Organen auf, damit die Macht im Staat nicht so leicht missbraucht wird.
+  
+  Folgenden Gewalten werden unterschieden:
+  - die gesetzgebende Gewalt(= Legislative) beschließt die Gesetze
+  - die Gerichtbarkeit(= Judikative) urteilt über Rechtsverletzungen
+  - die Verwaltung vollzieht die Gesetze
+   ![Staatsgewalten.png](Staatsgewalten.png)
+  
