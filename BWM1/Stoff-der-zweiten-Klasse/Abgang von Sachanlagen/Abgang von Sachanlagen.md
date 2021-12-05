@@ -33,7 +33,7 @@ Wenn eine Anlage vor ihrer Nutzungsdauer aus dem Betrieb ausscheidet, muss sie i
  - **Ausbuchung der Anlage -> Ausbuchen des Restbuchwerts**
   ![Anlagenausbuchen.png](Anlagenausbuchen.png)
    
-  ![[Abschlussbuchung.png]] 
+  ![Abschlussbuchung.png](Abschlussbuchung)
   
   #### Saldierungsbuchungen: Verbuchung des beim Verkauf/ Tausch erzielten Erfolges
   
@@ -43,7 +43,7 @@ Wenn eine Anlage vor ihrer Nutzungsdauer aus dem Betrieb ausscheidet, muss sie i
   
   - **Verbuchung**
      1. Saldierungsbuchung bei einem Gewinn 
-       ![[Saldierunggewinn.png]]
+       ![Saldierunggewinn.png](Saldierunggewinn.png)
 	 2. Saldierungsbuchung bei einem Verlust 
-       ![[Saldierungverlust.png]]
+       ![Saldierungverlust.png](Saldierungverlust.png)
   
