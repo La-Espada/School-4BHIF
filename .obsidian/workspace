@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
+            "file": "BWM3/Aufgaben und Grundlagen des Verfassungsrecht/Aufgaben und Grundlagen des Verfassungsrechts.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 407
   },
   "right": {
     "id": "fdeaf14a112f1211",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
+                "file": "BWM3/Aufgaben und Grundlagen des Verfassungsrecht/Aufgaben und Grundlagen des Verfassungsrechts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8b6c668bdfbb15ad",
   "lastOpenFiles": [
+    "BWM3/Aufgaben und Grundlagen des Verfassungsrecht/Aufgaben und Grundlagen des Verfassungsrechts.md",
     "BWM3/Die Rechtsordnung/Die-Rechtsordnung.md",
+    "BWM1/Stoff-der-zweiten-Klasse/Direkte AFA/Direkte Afa.md",
+    "BWM1/Stoff-der-zweiten-Klasse/Anlagenverzeichnis/Anlagenverzeichnis.md",
+    "BWM1/Stoff-der-zweiten-Klasse/Geringwertige WG/GWG.md",
+    "BWM1/Stoff-der-zweiten-Klasse/Geringwertige WG/umbuchungamBilanzstichtag.png",
+    "GitBashHere.png",
     "BWM1/Stoff-der-zweiten-Klasse/Zugang-zum-Anlagevermögen/Zugang-zum-Anlagevermögen.md",
-    "Readme.md",
-    "Mathematik/Geometrie der Ebene/Geometrie-der-Ebene.md",
-    "Mathematik/Integral/Integral.md",
-    "Mathematik/Integral/IntegralBeispiel5.png",
-    "Mathematik/Integral/IntegralBeispiel4.png",
-    "Mathematik/Geometrie der Ebene/Dreiecksarten.png",
-    "Directory.png",
-    "Successful.png"
+    "BWM3/Die Rechtsordnung/Arten-des-Rechts.png",
+    "Readme.md"
   ]
 }
