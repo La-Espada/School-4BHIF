@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BWM3/Personenrecht/Personenrecht.md",
-            "mode": "source"
+            "file": "BWM1/Stoff-der-zweiten-Klasse/Bewertung von nicht abnutzbarem Anlagevermögen/Bewertung von nicht abnutzbarem Anlagevermögen.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWM3/Personenrecht/Personenrecht.md",
+                "file": "BWM1/Stoff-der-zweiten-Klasse/Bewertung von nicht abnutzbarem Anlagevermögen/Bewertung von nicht abnutzbarem Anlagevermögen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8b6c668bdfbb15ad",
   "lastOpenFiles": [
+    "BWM1/Stoff-der-zweiten-Klasse/Bewertung von nicht abnutzbarem Anlagevermögen/Bewertung von nicht abnutzbarem Anlagevermögen.md",
     "BWM3/Personenrecht/Personenrecht.md",
     "BWM3/Personenrecht/OrganeeinesVereins.png",
     "BWM3/Aufgaben und Grundlagen des Verfassungsrecht/Aufgaben und Grundlagen des Verfassungsrechts.md",
@@ -96,7 +97,6 @@
     "BWM1/Stoff-der-zweiten-Klasse/Abgang von Sachanlagen/Abgang von Sachanlagen.md",
     "BWM1/Stoff-der-zweiten-Klasse/Geringwertige WG/GWG.md",
     "BWM1/Stoff-der-zweiten-Klasse/Direkte AFA/Direkte Afa.md",
-    "BWM1/Stoff-der-zweiten-Klasse/Anlagenverzeichnis/Anlagenverzeichnis.md",
-    "BWM1/Stoff-der-zweiten-Klasse/Geringwertige WG/umbuchungamBilanzstichtag.png"
+    "BWM1/Stoff-der-zweiten-Klasse/Anlagenverzeichnis/Anlagenverzeichnis.md"
   ]
 }
